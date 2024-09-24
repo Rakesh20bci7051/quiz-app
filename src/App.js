@@ -6,7 +6,7 @@ import Quiz from './components/Quiz';
 function App() {
   return (
     <div className="App">
-      <h1>Welcome to Quiz Competition of Mount Litra Zee School,Barh</h1>
+      <h1>Welcome to Quiz Competition of Mount Litera Zee School,Barh</h1>
       <Quiz />
     </div>
   );
